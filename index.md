@@ -1,6 +1,6 @@
 ---
-title:hogehoge
-author:sudakogoma
+title: hogehoge
+author: sudakogoma
 ---
 
 
