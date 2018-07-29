@@ -1,5 +1,5 @@
 ---
-title: sudakogoma's Wiki
+title: MyWiki
 author: sudakogoma
 ---
 
