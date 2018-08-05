@@ -9,3 +9,4 @@ author: sudakogoma
 * [MVVMな設計のTips～サービスを作ってVMの依存性を排除～](http://sourcechord.hatenablog.com/entry/2016/01/23/170753)
 * [Visual Studio Color Theme Editor for VS2010](https://marketplace.visualstudio.com/items?itemName=MatthewJohnsonMSFT.VisualStudioColorThemeEditor#overview)
 * [FontAndColors.vssettings](./docs/FontAndColors.vssettings)
+* [HUE/360](http://hue360.herokuapp.com/)
