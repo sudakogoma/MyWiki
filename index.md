@@ -10,3 +10,4 @@ author: sudakogoma
 * [Visual Studio Color Theme Editor for VS2010](https://marketplace.visualstudio.com/items?itemName=MatthewJohnsonMSFT.VisualStudioColorThemeEditor#overview)
 * [FontAndColors.vssettings](./docs/FontAndColors.vssettings)
 * [HUE/360](http://hue360.herokuapp.com/)
+* [paizaラーニング(C#入門編 (全4レッスン))](https://paiza.jp/works/cs/primer)
