@@ -13,3 +13,7 @@ author: sudakogoma
 * [paizaラーニング(C#入門編 (全4レッスン))](https://paiza.jp/works/cs/primer)
 * [aaa](http://blog.harapeko.jp/2013/03/01/wpf-mvvm-time-input-control/)
 * [bbb](http://pieceofnostalgy.blogspot.com/2012/04/wpf-datacontext.html)
+* [C#　練習問題集](http://kitako.tokyo/lib/CsExercise.aspx?id=1)
+* [演習問題集 未確認飛行 C](https://ufcpp.net/study/csharp/exercise.html)
+* [paiza プログラミングスキルチェック](https://paiza.jp/challenges/info)
+* [paizaラーニング C#入門編](https://paiza.jp/works/cs/primer)
