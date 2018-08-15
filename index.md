@@ -12,8 +12,8 @@ author: sudakogoma
 * [WPF と MVVM で時刻入力コントロール](http://blog.harapeko.jp/2013/03/01/wpf-mvvm-time-input-control/)
 * [wpf : ユーザーコントロールでDataContextを使うときの定石 ](http://pieceofnostalgy.blogspot.com/2012/04/wpf-datacontext.html)
 * [Mirosoft Reference Source](https://referencesource.microsoft.com/)
-* [zzz](https://documentation.devexpress.com/WindowsForms/113955/Build-an-Application/WinForms-MVVM
-)
+* [zzz](https://documentation.devexpress.com/WindowsForms/113955/Build-an-Application/WinForms-MVVM)
+* [『ポリモーフィズムを活用するとなぜ if や switch が消えるのか？』プログラマー２年生が説明してみる。](https://qiita.com/Nossa/items/a93024e653ff939115c6)
 
 # 演習
 * [C#　練習問題集](http://kitako.tokyo/lib/CsExercise.aspx?id=1)
