@@ -12,7 +12,7 @@ author: sudakogoma
 * [SECSとは – スーパーソフトウエア東京](http://tokyo.supersoftware.co.jp/technology/7001)
 
 # CSharp&.NET
-* [Mirosoft Reference Source](https://referencesource.microsoft.com/)
+* [Microsoft Reference Source](https://referencesource.microsoft.com/)
 
 # MVVM
 * [WinForms MVVM \| WinForms General \| WinForms Controls \| DevExpress Help](https://documentation.devexpress.com/WindowsForms/113955/Build-an-Application/WinForms-MVVM)
