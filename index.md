@@ -15,7 +15,7 @@ author: sudakogoma
 * [Mirosoft Reference Source](https://referencesource.microsoft.com/)
 
 # MVVM
-* [WinForms MVVM | WinForms General | WinForms Controls | DevExpress Help](https://documentation.devexpress.com/WindowsForms/113955/Build-an-Application/WinForms-MVVM)
+* [WinForms MVVM \| WinForms General \| WinForms Controls \| DevExpress Help](https://documentation.devexpress.com/WindowsForms/113955/Build-an-Application/WinForms-MVVM)
 * [MVVMな設計のTips～サービスを作ってVMの依存性を排除～](http://sourcechord.hatenablog.com/entry/2016/01/23/170753)
 * [WPF と MVVM で時刻入力コントロール](http://blog.harapeko.jp/2013/03/01/wpf-mvvm-time-input-control/)
 * [wpf : ユーザーコントロールでDataContextを使うときの定石 ](http://pieceofnostalgy.blogspot.com/2012/04/wpf-datacontext.html)
