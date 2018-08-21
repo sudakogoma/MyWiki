@@ -10,6 +10,9 @@ author: sudakogoma
 * [HUE/360](http://hue360.herokuapp.com/)
 * [『ポリモーフィズムを活用するとなぜ if や switch が消えるのか？』プログラマー２年生が説明してみる。](https://qiita.com/Nossa/items/a93024e653ff939115c6)
 * [SECSとは – スーパーソフトウエア東京](http://tokyo.supersoftware.co.jp/technology/7001)
+* [aaa](https://social.msdn.microsoft.com/Forums/vstudio/ja-JP/ee2cc0e5-d96a-41f4-a3ae-ba90f1659abb/idatagridvieweditingcontroldatagridviewtextboxcell?forum=csharpgeneralja)
+* [bbb](https://www.google.co.jp/search?q=datagridviewtextboxcell+IDataGridViewEditingControl&btnG=%E6%A4%9C%E7%B4%A2)
+* [ccc](https://social.msdn.microsoft.com/Forums/windows/en-US/63ddb457-f769-44db-87cc-9e88e74929e8/how-to-host-different-controls-in-the-same-column-in-datagridview-control?forum=winformsdesigner)
 
 # CSharp&.NET
 * [Microsoft Reference Source](https://referencesource.microsoft.com/)
