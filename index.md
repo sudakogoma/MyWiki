@@ -7,6 +7,8 @@ author: sudakogoma
 
 * [Microsoft Azure, Cloud and Enterprise Symbol / Icon Set](http://www.microsoft.com/en-us/download/details.aspx?id=41937)
 * [Visual Studio Color Theme Editor for VS2010](https://marketplace.visualstudio.com/items?itemName=MatthewJohnsonMSFT.VisualStudioColorThemeEditor#overview)
+* [VS10x CodeMAP](https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.VS10xCodeMAP)
+* [VSCommands for Visual Studio 2010](https://marketplace.visualstudio.com/items?itemName=SquaredInfinityJarekKardas.VSCommandsforVisualStudio2010)
 * [HUE/360](http://hue360.herokuapp.com/)
 * [『ポリモーフィズムを活用するとなぜ if や switch が消えるのか？』プログラマー２年生が説明してみる。](https://qiita.com/Nossa/items/a93024e653ff939115c6)
 * [SECSとは – スーパーソフトウエア東京](http://tokyo.supersoftware.co.jp/technology/7001)
