@@ -1,7 +1,6 @@
 ---
 layout: default
 title: DDD
-author: sudakogoma
 ---
 
 ただのメモ。
