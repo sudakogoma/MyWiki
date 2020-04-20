@@ -1,2 +1,4 @@
 title: My Wiki
+is_project_page: false
+show_downloads: false
 theme: jekyll-theme-cayman
