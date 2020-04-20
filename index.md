@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Wiki
+title: Main Contents
 ---
 
 ## CSharp&.NET
