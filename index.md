@@ -1,4 +1,5 @@
 ---
+layout: default
 title: My Wiki
 author: sudakogoma
 ---
