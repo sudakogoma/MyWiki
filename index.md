@@ -24,7 +24,7 @@ author: sudakogoma
 
 ## DDD
 
-* [個人的なメモ](.\docs\DDD.md)
+* [個人的なメモ](.\docs\DDD)
 * [DDD Reference](https://domainlanguage.com/ddd/reference/)
 
 ## Others
