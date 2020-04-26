@@ -21,6 +21,28 @@ title: Main Contents
 * [プログラミングな日々: MVVMにおけるViewModelとModelのプロパティ同期 - NotifyPropertyHelper 1.0.0-beta1](https://days-of-programming.blogspot.com/2018/02/mvvmviewmodelmodel-notifypropertyhelper.html)
 * [プログラミングな日々: MVVMのサンプルプログラム - TwitterViewer](https://days-of-programming.blogspot.com/2017/11/mvvm-twitterviewer.html)
 
+## Visual Studio の管理
+
+1. Visual Studio bootstrapper の入手する。[https://my.visualstudio.com/Downloads](https://my.visualstudio.com/Downloads?q=visual%20studio%202019%20version%2016.4)
+
+2. Visual Studio Professional の場合、以下を実行しオフラインインストールフォルダ(レイアウト)を生成する。
+
+    ```cmd
+    vs_professional.exe --layout c:\VSLayout --lang ja-JP
+    ```
+
+3. Response.json ファイルを変更する。  
+サンプル：[Response.json](.\docs\VS_admin\Response.json)
+
+4. ネットワーク共有にレイアウトをコピーする。
+
+5. インストールスクリプトを作成する。
+
+### 参考リンク
+
+* [サービス ベースライン使用時の Visual Studio の更新 - MS Docs](https://docs.microsoft.com/ja-jp/visualstudio/install/update-servicing-baseline?view=vs-2019)
+* [ネットワークベースの Visual Studio 配置の更新プログラムを制御する - MS Docs](https://docs.microsoft.com/ja-jp/visualstudio/install/controlling-updates-to-visual-studio-deployments?view=vs-2019)
+
 ## DDD
 
 * [個人的なメモ](.\docs\DDD)

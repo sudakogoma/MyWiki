@@ -1,0 +1,16 @@
+{
+    "installChannelUri": ".\\ChannelManifest.json",
+    "channelUri": "\\\\server\\share\\VS\\ChannelManifest.json",
+    "installCatalogUri": ".\\Catalog.json",
+    "channelId": "VisualStudio.16.Release",
+    "productId": "Microsoft.VisualStudio.Product.Professional",
+    "includeRecommended": true,
+    "includeOptional": true,
+    "noWeb": true,
+    "addProductLang": [
+        "ja-JP"
+    ],
+    "add": [
+        "Component.Android.NDK.R16B"
+    ]
+}
