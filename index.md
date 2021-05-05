@@ -38,6 +38,10 @@ title: Main Contents
 
 5. インストールスクリプトを作成する。
 
+### 参考メモ
+
+* C:\ProgramData\Microsoft\VisualStudio\Packages\_Channels
+
 ### 参考リンク
 
 * [サービス ベースライン使用時の Visual Studio の更新 - MS Docs](https://docs.microsoft.com/ja-jp/visualstudio/install/update-servicing-baseline?view=vs-2019)
